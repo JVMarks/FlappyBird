@@ -17,7 +17,7 @@
 </p>
         </article>
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a> |   
+  <a href="#rocket-tecnologias">Tecnologias</a>|   
   <a href="#-projeto">Projeto</a> |   
   <a href="#-layout">Layout</a> |   
   <a href="#-como-contribuir">Como contribuir</a>   
