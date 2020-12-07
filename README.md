@@ -7,7 +7,6 @@
   ☕ Code and coffee
 </h4>
 <p align="center">
-  
    <div class="Box-body">    
     <article class="markdown-body entry-content p-5" itemprop="text"><h1 align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7b2781df5f8bb6e4a2e68219db354b551194a754/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f636f756e742f526f636b6574736561742f73656d616e612d6f6d6e69737461636b2d392e737667"><img alt="GitHub language count" src="https://camo.githubusercontent.com/7b2781df5f8bb6e4a2e68219db354b551194a754/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f636f756e742f526f636b6574736561742f73656d616e612d6f6d6e69737461636b2d392e737667" data-canonical-src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-9.svg" style="max-width:100%;"></a>
