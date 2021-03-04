@@ -14,7 +14,7 @@
     <img alt="Repository issues" src="https://camo.githubusercontent.com/d1bd4b326a99eff5825e51973ea3106ebbd0abff/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f526f636b6574736561742f73656d616e612d6f6d6e69737461636b2d392e737667" data-canonical-src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-9.svg" style="max-width:100%;">
   </a>
 </p>
-        </article>
+  </article>
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>|   
   <a href="#-projeto">Projeto</a> |   
