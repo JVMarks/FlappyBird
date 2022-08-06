@@ -50,3 +50,4 @@
 <p>Feito nas aulas do DEV soutinho <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> <a href="https://www.youtube.com/watch?v=jOAU81jdi-c" rel="nofollow">Crie o seu!!</a>😉</p>
 </article>
       </div>
+      
